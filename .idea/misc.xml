@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/drawable/background_btback.xml" value="0.176" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/drawable/background_bticon2.xml" value="0.2595" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/drawable/background_bticon3.xml" value="0.2585" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/drawable/background_bticon4.xml" value="0.2585" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/drawable/background_btnicon.xml" value="0.2585" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/drawable/background_button.xml" value="0.209" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/drawable/background_canvas.xml" value="0.209" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/drawable/background_edittext.xml" value="0.209" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/drawable/background_login.xml" value="0.209" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/layout/activity_page.xml" value="0.264" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/layout/activity_regis.xml" value="0.15217391304347827" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/layout/activity_schedule.xml" value="0.25416666666666665" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/layout/testnav.xml" value="0.253125" />
+        <entry key="..\:/PetraMobile20_UAS/app/src/main/res/layout/viewholder_announ.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
